@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-position: center center;
+  background-color: rgb(161, 194, 194);
+  height:750px;
+}
+
+a{
+  color:black;
+  font: bold;
+  font-size: 150%;
+  text-decoration:none; 
+}
+
+.link{
+  text-shadow: 2px 2px;
+  font-size: 200%;
+  color:black;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.nav{
+  margin-left: 1300px;
+  margin-top: -32px;
+  margin-right: 32px;
+  padding-bottom: 40px;
+  justify-content: space-between;
+  display: flex;
+}
